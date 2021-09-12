@@ -1,0 +1,22 @@
+{
+  "name": "test2-elm-tailwind",
+  "version": "1.0.0",
+  "description": "> 🌳  built with [elm-spa](https://elm-spa.dev)",
+  "main": "my-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johncrosby/test2-elm-tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johncrosby/test2-elm-tailwind/issues"
+  },
+  "homepage": "https://github.com/johncrosby/test2-elm-tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
